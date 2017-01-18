@@ -1,0 +1,40 @@
+
+body{
+  margin-top: 50px;
+  font-family: Sans-serif;
+  font-size: 20px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+  
+h3{
+  font-size: 25px;
+  color: #696969;
+}
+
+.marginText {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.marginList {
+    margin-left: 30px;
+    line-height: 2em;
+  }
+
+.paddingImage{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#quote{
+  text-align:justify;
+}
+
+.head-border{
+  border: 5px double rgb(38, 38, 38);
+  background-color:white;
+} 
